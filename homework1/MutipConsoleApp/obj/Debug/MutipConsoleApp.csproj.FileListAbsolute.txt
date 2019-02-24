@@ -1,0 +1,7 @@
+E:\csharphws\homework1\MutipConsoleApp\bin\Debug\MutipConsoleApp.exe.config
+E:\csharphws\homework1\MutipConsoleApp\bin\Debug\MutipConsoleApp.exe
+E:\csharphws\homework1\MutipConsoleApp\bin\Debug\MutipConsoleApp.pdb
+E:\csharphws\homework1\MutipConsoleApp\obj\Debug\MutipConsoleApp.csprojAssemblyReference.cache
+E:\csharphws\homework1\MutipConsoleApp\obj\Debug\MutipConsoleApp.csproj.CoreCompileInputs.cache
+E:\csharphws\homework1\MutipConsoleApp\obj\Debug\MutipConsoleApp.exe
+E:\csharphws\homework1\MutipConsoleApp\obj\Debug\MutipConsoleApp.pdb

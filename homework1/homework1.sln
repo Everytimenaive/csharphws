@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutipConsoleApp", "MutipConsoleApp\MutipConsoleApp.csproj", "{EC5FD623-A0CC-41D0-9B48-03D876CFE31C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipWindowsApp", "MultipWindowsApp\MultipWindowsApp.csproj", "{741B193F-15B4-4F1F-B3AB-F3D6A3DC474D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5FD623-A0CC-41D0-9B48-03D876CFE31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5FD623-A0CC-41D0-9B48-03D876CFE31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5FD623-A0CC-41D0-9B48-03D876CFE31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5FD623-A0CC-41D0-9B48-03D876CFE31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B193F-15B4-4F1F-B3AB-F3D6A3DC474D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B193F-15B4-4F1F-B3AB-F3D6A3DC474D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B193F-15B4-4F1F-B3AB-F3D6A3DC474D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B193F-15B4-4F1F-B3AB-F3D6A3DC474D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0000DFB-795A-4D37-BE3A-9FB5BB738A1D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\csharphws\homework1\MultipWindowsApp\bin\Debug\MultipWindowsApp.exe.config
+E:\csharphws\homework1\MultipWindowsApp\bin\Debug\MultipWindowsApp.exe
+E:\csharphws\homework1\MultipWindowsApp\bin\Debug\MultipWindowsApp.pdb
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.csprojAssemblyReference.cache
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.Form1.resources
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.Properties.Resources.resources
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.csproj.GenerateResource.cache
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.csproj.CoreCompileInputs.cache
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.exe
+E:\csharphws\homework1\MultipWindowsApp\obj\Debug\MultipWindowsApp.pdb
