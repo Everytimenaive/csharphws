@@ -9,9 +9,9 @@ using System.Xml.Serialization;
 
 namespace OrderManager
 {
-    class OrderService
+    public class OrderService
     {
-        private List<Order> orders;
+        public List<Order> orders { get; set; }
         private int index;
 
         public OrderService()

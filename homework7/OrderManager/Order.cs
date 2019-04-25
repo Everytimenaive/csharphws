@@ -6,14 +6,24 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Schema;
 using System.Xml.Serialization;
+using System.Runtime.Serialization;
 
 namespace OrderManager
 {
     [Serializable]
+    [DataContract]
     public class Order: IComparable, IXmlSerializable
     {
+        [DataMember]
         public int orderId { get; set; }
+        [DataMember]
         public string clientName { get; set; }
+        [DataMember]
+        public string detailsInfo
+        {
+            get => details.ToString();
+        }
+        [IgnoreDataMember]
         public OrderDetails details { get; set; }
 
         public Order() { }
